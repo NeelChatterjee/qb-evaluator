@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Question Analysis</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Analysis Results</h1>
+
+        <!-- Display Word Cloud -->
+        <div class="wordcloud_image">
+            <h2>Word Cloud</h2>
+            <img src="data:image/png;base64,{{ wordcloud_image }}" alt="Word Cloud">
+        </div>
+
+        <!-- Display Duplicates -->
+        <div class="duplicates">
+            <h2>Duplicate Questions</h2>
+            {% if duplicates %}
+            {% for duplicate in duplicates %}
+            <div class="duplicate">
+                <p><strong>Question 1:</strong> {{ duplicate['question1'] }}</p>
+                <p><strong>Question 2:</strong> {{ duplicate['question2'] }}</p>
+                <p><strong>Similarity:</strong> {{ duplicate['similarity'] }}</p>
+                <p><strong>Paraphrased Question:</strong> {{ duplicate['paraphrased_question'] }}</p>
+            </div>
+            {% endfor %}
+            {% else %}
+            <p>No duplicate questions found.</p>
+            {% endif %}
+        </div>
+
+        <!-- Display Similar Questions -->
+        <div class="similar questions">
+            <h2>Similar Questions</h2>
+            {% if similar_questions %}
+            {% for similar_question in similar_questions %}
+            <div class="similar_question">
+                <p><strong>Question 1:</strong> {{ similar_question['question1'] }}</p>
+                <p><strong>Question 2:</strong> {{ similar_question['question2'] }}</p>
+                <p><strong>Similarity:</strong> {{ similar_question['similarity'] }}</p>
+            </div>
+            {% endfor %}
+            {% else %}
+            <p>No similar questions found.</p>
+            {% endif %}
+        </div>
+
+        <!-- Tagged Questions with Bloom's Taxonomy -->
+        <div class="tagged-questions mt-5">
+            <h3>Tagged Questions & Bloom's Taxonomy</h3>
+            <div class="accordion" id="questionAccordion">
+                {% for question in tagged_questions %}
+                    <div class="accordion-item question-card">
+                        <h2 class="accordion-header" id="heading{{ question.id }}">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ question.id }}" aria-expanded="true" aria-controls="collapse{{ question.id }}">
+                                {{ question.id }}: {{ question.question }}
+                            </button>
+                        </h2>
+                        <div id="collapse{{ question.id }}" class="accordion-collapse collapse" aria-labelledby="heading{{ question.id }}" data-bs-parent="#questionAccordion">
+                            <div class="accordion-body">
+                                <p><span class="bloom-level">Bloom's Taxonomy Level:</span> {{ question.bloom }}</p>
+                                <div class="tags">
+                                    <span class="bloom-level">Tags:</span>
+                                    {% for tag in question.tags %}
+                                        <span class="badge bg-secondary tag-badge">{{ tag }}</span>
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            </div>
+        </div>
+
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

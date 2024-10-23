@@ -1,0 +1,1782 @@
+{
+    "questions": [
+        {
+            "sl_no": 1,
+            "question": "If a magnetic\n  disc has 100 cylinders, each containing 10 tracks of 10 sectors, and each\n  sector can contain 128 bytes, what is the maximum capacity of the disk in\n  bytes?",
+            "CO": 4,
+            "BL": 5,
+            "marks": 10
+        },
+        {
+            "sl_no": 2,
+            "question": "Which\n  interrupt is used for which hardware automatically transfers the program to a\n  specific memory location? Explain how it works?",
+            "CO": 6,
+            "BL": 4,
+            "marks": 5
+        },
+        {
+            "sl_no": 3,
+            "question": "What are the\n  advantages of assembly language? How is it different from high-level\n  language?",
+            "CO": 7,
+            "BL": 1,
+            "marks": 2
+        },
+        {
+            "sl_no": 4,
+            "question": "Write short\n  notes on the following: (i) Flip-Flops (ii)\n  Multiplexer",
+            "CO": 3,
+            "BL": 2,
+            "marks": 10
+        },
+        {
+            "sl_no": 5,
+            "question": "Explain with\n  a neat flow chart for addition and subtraction of floating\n  point Numbers.",
+            "CO": 5,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 6,
+            "question": "Design a\n  combinational circuit using a ROM. The circuit accepts a 3-bit number and\n  generates an output in binary number equal to the square of the input number.",
+            "CO": 2,
+            "BL": 6,
+            "marks": 2
+        },
+        {
+            "sl_no": 7,
+            "question": "Give the\n  hardware organization of associative memory. Why associative memory is faster\n  than other memories. Deduce the logic equation used to find the match in the\n  associative memory. Explain how four-bit argument register is realized.",
+            "CO": 1,
+            "BL": 5,
+            "marks": 5
+        },
+        {
+            "sl_no": 8,
+            "question": "Write short\n  notes on any two of the following: (i) DMA data\n  transfer (ii) Handshaking method of data transfer",
+            "CO": 4,
+            "BL": 4,
+            "marks": 10
+        },
+        {
+            "sl_no": 9,
+            "question": "With the help\n  of a neat sketch, explain the working of a 4-bit universal shift register.",
+            "CO": 3,
+            "BL": 3,
+            "marks": 2
+        },
+        {
+            "sl_no": 10,
+            "question": "A digital\n  computer has a common bus system for 16 registers of 32 bits each. The bus is\n  constructed with Multiplexers. (a) How many selection inputs are needed for\n  each MUX ? (b) What size of multiplexers are needed ? (c) How many multiplexers are there in the bus ?",
+            "CO": 7,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 11,
+            "question": "Draw a space\n  time diagram for four-segment pipeline showing the time it takes to process\n  each task.",
+            "CO": 6,
+            "BL": 3,
+            "marks": 10
+        },
+        {
+            "sl_no": 12,
+            "question": "Design a\n  digital circuit that performs four logic operations of exclusive OR,\n  executive-NOR, NOR, and NAND. Use two selection variables. Show logic diagram\n  of one typical stage.",
+            "CO": 5,
+            "BL": 4,
+            "marks": 2
+        },
+        {
+            "sl_no": 13,
+            "question": "Draw\n  flowchart for instruction cycle of computer and explain.",
+            "CO": 2,
+            "BL": 1,
+            "marks": 10
+        },
+        {
+            "sl_no": 14,
+            "question": "What are\n  various addressing modes? Explain any five with the help of suitable example.",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 15,
+            "question": "(a)\n  Distinguish control memory and main memory used in digital computer. Why\n  control memory is necessary? (b) Differentiate between Horizontal and\n  Vertical microinstruction format for microprogrammed Control unit.",
+            "CO": 4,
+            "BL": 5,
+            "marks": 2
+        },
+        {
+            "sl_no": 16,
+            "question": "What is a\n  cache memory? Explain the various mapping techniques of cache memory.",
+            "CO": 7,
+            "BL": 4,
+            "marks": 10
+        },
+        {
+            "sl_no": 17,
+            "question": "Explain two\n  ways for establishing priority of interrupt by multiple devices.",
+            "CO": 6,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 18,
+            "question": "Explain DMA\n  transfer in detail with the help of diagram.",
+            "CO": 1,
+            "BL": 3,
+            "marks": 2
+        },
+        {
+            "sl_no": 19,
+            "question": "What are\n  registers? Mention various types of Registers and explain any two.",
+            "CO": 5,
+            "BL": 6,
+            "marks": 5
+        },
+        {
+            "sl_no": 20,
+            "question": "Explain the\n  principle of pipelining with the help of space time diagram. Derive an\n  expression for speed up.",
+            "CO": 2,
+            "BL": 2,
+            "marks": 10
+        },
+        {
+            "sl_no": 21,
+            "question": "What is the\n  difference between logical, circular and arithmetic shift? Starting from an\n  initial value of R = 11011101, determine the sequence of binary values in R after a logical shift-left, followed by a circular\n  shift-right, followed by a logical shift-right and circular shift-left.",
+            "CO": 7,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 22,
+            "question": "Explain with\n  the help of flow diagram how an instruction is fetched, decoded and executed?",
+            "CO": 4,
+            "BL": 4,
+            "marks": 2
+        },
+        {
+            "sl_no": 23,
+            "question": "Register A\n  holds the 8-bit binary 11111001. Determine operand B and the logic\n  micro-operation to be performed in order to change the value in A to: (i) 01101111 (ii) 11011101.",
+            "CO": 6,
+            "BL": 5,
+            "marks": 10
+        },
+        {
+            "sl_no": 24,
+            "question": "Draw and\n  explain the instruction cycle and the control functions associated with each\n  of the phases. Show the execute phase for any one memory reference\n  instruction.",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 25,
+            "question": "(a) What are\n  the various techniques for data transformation from main memory to Cache\n  memory?",
+            "CO": 1,
+            "BL": 6,
+            "marks": 2
+        },
+        {
+            "sl_no": 26,
+            "question": "What are\n  buses? Discuss bus arbitration scheme?",
+            "CO": 7,
+            "BL": 5,
+            "marks": 10
+        },
+        {
+            "sl_no": 27,
+            "question": "What is an\n  interrupt? Explain the difference between types of interrupts in detail.",
+            "CO": 2,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 28,
+            "question": "What is cache\n  coherence problem in microprocessor systems? How can it be solved? Explain in\n  detail.",
+            "CO": 4,
+            "BL": 4,
+            "marks": 2
+        },
+        {
+            "sl_no": 29,
+            "question": "Explain the\n  flow chart of Booth's multiplication algorithm in detail. Also compute 7 x\n  (-8) using Booth's Algorithm.",
+            "CO": 5,
+            "BL": 3,
+            "marks": 10
+        },
+        {
+            "sl_no": 30,
+            "question": "Describe one\n  address, two address instruction format with the help of examples.",
+            "CO": 6,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 31,
+            "question": "What are\n  different buses used in computers?",
+            "CO": 3,
+            "BL": 1,
+            "marks": 2
+        },
+        {
+            "sl_no": 32,
+            "question": "Why is the\n  address bus unidirectional?",
+            "CO": 2,
+            "BL": 6,
+            "marks": 10
+        },
+        {
+            "sl_no": 33,
+            "question": "What is an\n  instruction cycle?",
+            "CO": 1,
+            "BL": 5,
+            "marks": 5
+        },
+        {
+            "sl_no": 34,
+            "question": "What are the\n  advantages of microprogrammed control units?",
+            "CO": 7,
+            "BL": 4,
+            "marks": 2
+        },
+        {
+            "sl_no": 35,
+            "question": "What is cache\n  memory? What is its use?",
+            "CO": 4,
+            "BL": 3,
+            "marks": 10
+        },
+        {
+            "sl_no": 36,
+            "question": "What are the\n  advantages of DMA control?",
+            "CO": 6,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 37,
+            "question": "What is\n  pipelining?",
+            "CO": 5,
+            "BL": 1,
+            "marks": 2
+        },
+        {
+            "sl_no": 38,
+            "question": "Discuss the\n  effect of clock frequency on the speed of operation of computers.",
+            "CO": 3,
+            "BL": 6,
+            "marks": 10
+        },
+        {
+            "sl_no": 39,
+            "question": "With the help\n  of hardware schematic and flowchart, explain the implementation of\n  multiplication operation in computers.",
+            "CO": 2,
+            "BL": 5,
+            "marks": 5
+        },
+        {
+            "sl_no": 40,
+            "question": "Draw the\n  schematic diagram and discuss the working of arithmetic logic shift unit.",
+            "CO": 7,
+            "BL": 4,
+            "marks": 2
+        },
+        {
+            "sl_no": 41,
+            "question": "What is a\n  RISC? Discuss its characteristics.",
+            "CO": 1,
+            "BL": 3,
+            "marks": 10
+        },
+        {
+            "sl_no": 42,
+            "question": "What is\n  auxiliary memory? Explain.",
+            "CO": 6,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 43,
+            "question": "What is cache\n  memory?",
+            "CO": 3,
+            "BL": 1,
+            "marks": 2
+        },
+        {
+            "sl_no": 44,
+            "question": "What are cache hit and cache miss? Define hit ratio.",
+            "CO": 4,
+            "BL": 6,
+            "marks": 10
+        },
+        {
+            "sl_no": 45,
+            "question": "What is the\n  need for input-output interface? List various input-output devices for\n  computers.",
+            "CO": 5,
+            "BL": 5,
+            "marks": 5
+        },
+        {
+            "sl_no": 46,
+            "question": "What are\n  interrupts? What is their need? What is a priority interrupt?",
+            "CO": 7,
+            "BL": 4,
+            "marks": 2
+        },
+        {
+            "sl_no": 47,
+            "question": "What are\n  multiprocessors? Discuss their characteristics.",
+            "CO": 2,
+            "BL": 3,
+            "marks": 10
+        },
+        {
+            "sl_no": 48,
+            "question": "Explain RISC\n  pipeline vector processing.",
+            "CO": 6,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 49,
+            "question": "What is the\n  difference between the restoring and non-restoring method of division?",
+            "CO": 3,
+            "BL": 1,
+            "marks": 2
+        },
+        {
+            "sl_no": 50,
+            "question": "What are the\n  types of micro-operations?",
+            "CO": 1,
+            "BL": 6,
+            "marks": 10
+        },
+        {
+            "sl_no": 51,
+            "question": "What is a\n  control word?",
+            "CO": 5,
+            "BL": 5,
+            "marks": 5
+        },
+        {
+            "sl_no": 52,
+            "question": "What is a\n  memory system? Define memory refreshing.",
+            "CO": 4,
+            "BL": 4,
+            "marks": 2
+        },
+        {
+            "sl_no": 53,
+            "question": "Define\n  intra-segment and inter-segment communication.",
+            "CO": 2,
+            "BL": 3,
+            "marks": 10
+        },
+        {
+            "sl_no": 54,
+            "question": "What is bus\n  arbitration? Explain.",
+            "CO": 7,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 55,
+            "question": "What is\n  virtual memory? How is it implemented in computers?",
+            "CO": 6,
+            "BL": 1,
+            "marks": 2
+        },
+        {
+            "sl_no": 56,
+            "question": "What is a\n  shift register? Explain any four types.",
+            "CO": 3,
+            "BL": 6,
+            "marks": 10
+        },
+        {
+            "sl_no": 57,
+            "question": "What is the\n  difference between parallel processing and parallelism?",
+            "CO": 2,
+            "BL": 5,
+            "marks": 5
+        },
+        {
+            "sl_no": 58,
+            "question": "What is\n  synchronous and asynchronous data transfer?",
+            "CO": 1,
+            "BL": 4,
+            "marks": 2
+        },
+        {
+            "sl_no": 59,
+            "question": "What is\n  instruction pipeline?",
+            "CO": 5,
+            "BL": 3,
+            "marks": 10
+        },
+        {
+            "sl_no": 60,
+            "question": "Explain the\n  basic organization of a micro programmed control unit and the generation of\n  control signals using micro program.",
+            "CO": 4,
+            "BL": 6,
+            "marks": 10
+        },
+        {
+            "sl_no": 61,
+            "question": "What are\n  the differences between volatile and non-volatile memory?",
+            "CO": 1,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 62,
+            "question": "Explain\n  the purpose and operation of a memory management unit (MMU).",
+            "CO": 2,
+            "BL": 4,
+            "marks": 10
+        },
+        {
+            "sl_no": 63,
+            "question": "What is\n  branch prediction in modern processors, and why is it important?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 64,
+            "question": "Describe\n  the concept of speculative execution in CPUs.",
+            "CO": 4,
+            "BL": 6,
+            "marks": 10
+        },
+        {
+            "sl_no": 65,
+            "question": "What is\n  the significance of pipeline hazards, and how are they mitigated?",
+            "CO": 5,
+            "BL": 5,
+            "marks": 2
+        },
+        {
+            "sl_no": 66,
+            "question": "Explain\n  the difference between a superscalar and scalar processor.",
+            "CO": 6,
+            "BL": 3,
+            "marks": 10
+        },
+        {
+            "sl_no": 67,
+            "question": "What is\n  the role of hyperthreading in CPU performance?",
+            "CO": 1,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 68,
+            "question": "Define\n  out-of-order execution and its role in modern CPUs.",
+            "CO": 2,
+            "BL": 1,
+            "marks": 10
+        },
+        {
+            "sl_no": 69,
+            "question": "What are\n  the major differences between sequential and parallel processing?",
+            "CO": 3,
+            "BL": 5,
+            "marks": 2
+        },
+        {
+            "sl_no": 70,
+            "question": "What are\n  the various types of hazards in pipelined processors?",
+            "CO": 4,
+            "BL": 4,
+            "marks": 10
+        },
+        {
+            "sl_no": 71,
+            "question": "What is\n  memory interleaving, and how does it improve performance?",
+            "CO": 5,
+            "BL": 6,
+            "marks": 2
+        },
+        {
+            "sl_no": 72,
+            "question": "Describe\n  the main advantages of solid-state drives (SSDs) over traditional hard drives\n  (HDDs).",
+            "CO": 6,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 73,
+            "question": "How do\n  power-efficient architectures like ARM differ from traditional x86\n  architectures?",
+            "CO": 1,
+            "BL": 4,
+            "marks": 10
+        },
+        {
+            "sl_no": 74,
+            "question": "Explain\n  how dynamic power management techniques help reduce power consumption in\n  modern CPUs.",
+            "CO": 2,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 75,
+            "question": "What is\n  the significance of power gating in microprocessor design?",
+            "CO": 3,
+            "BL": 6,
+            "marks": 10
+        },
+        {
+            "sl_no": 76,
+            "question": "How does\n  voltage scaling impact CPU performance and power consumption?",
+            "CO": 4,
+            "BL": 5,
+            "marks": 2
+        },
+        {
+            "sl_no": 77,
+            "question": "Describe\n  the role of GPUs in accelerating AI and machine learning tasks.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 10
+        },
+        {
+            "sl_no": 78,
+            "question": "What are\n  the main differences between server CPUs and desktop CPUs?",
+            "CO": 6,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 79,
+            "question": "Explain\n  the significance of thermal design power (TDP) in processor selection.",
+            "CO": 1,
+            "BL": 1,
+            "marks": 10
+        },
+        {
+            "sl_no": 80,
+            "question": "What is\n  the importance of system-on-chip (SoC) in modern mobile devices?",
+            "CO": 2,
+            "BL": 4,
+            "marks": 5
+        },
+        {
+            "sl_no": 81,
+            "question": "Describe\n  the architecture of ARM processors and its applications.",
+            "CO": 3,
+            "BL": 6,
+            "marks": 10
+        },
+        {
+            "sl_no": 82,
+            "question": "What are\n  the differences between single-core and multicore processors?",
+            "CO": 4,
+            "BL": 5,
+            "marks": 5
+        },
+        {
+            "sl_no": 83,
+            "question": "Explain\n  how a CPU's instruction pipeline operates.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 10
+        },
+        {
+            "sl_no": 84,
+            "question": "What is a\n  co-processor, and how does it assist the main CPU?",
+            "CO": 6,
+            "BL": 4,
+            "marks": 5
+        },
+        {
+            "sl_no": 85,
+            "question": "What are\n  the challenges associated with designing processors for embedded systems?",
+            "CO": 1,
+            "BL": 3,
+            "marks": 2
+        },
+        {
+            "sl_no": 86,
+            "question": "How do\n  asynchronous circuits differ from synchronous circuits in CPU design?",
+            "CO": 2,
+            "BL": 5,
+            "marks": 10
+        },
+        {
+            "sl_no": 87,
+            "question": "Describe\n  the concept of hardware multithreading.",
+            "CO": 3,
+            "BL": 6,
+            "marks": 5
+        },
+        {
+            "sl_no": 88,
+            "question": "What is a\n  system bus, and how does it impact the performance of a CPU?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 10
+        },
+        {
+            "sl_no": 89,
+            "question": "Explain\n  the concept of a distributed computing system and its advantages.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 90,
+            "question": "What are\n  the primary considerations for thermal management in high-performance\n  processors?",
+            "CO": 6,
+            "BL": 3,
+            "marks": 10
+        },
+        {
+            "sl_no": 91,
+            "question": "Describe\n  the significance of memory latency and memory bandwidth in system\n  performance.",
+            "CO": 1,
+            "BL": 4,
+            "marks": 5
+        },
+        {
+            "sl_no": 92,
+            "question": "How does\n  hardware prefetching improve memory access times in modern CPUs?",
+            "CO": 2,
+            "BL": 5,
+            "marks": 10
+        },
+        {
+            "sl_no": 93,
+            "question": "What is\n  the role of instruction-level parallelism (ILP) in improving CPU performance?",
+            "CO": 3,
+            "BL": 6,
+            "marks": 5
+        },
+        {
+            "sl_no": 94,
+            "question": "Describe\n  the advantages and challenges of using liquid cooling in processors.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 10
+        },
+        {
+            "sl_no": 95,
+            "question": "How do\n  CPUs and GPUs collaborate in a heterogeneous computing environment?",
+            "CO": 5,
+            "BL": 4,
+            "marks": 2
+        },
+        {
+            "sl_no": 96,
+            "question": "Explain\n  the importance of using error-correcting code (ECC) memory in\n  mission-critical systems.",
+            "CO": 6,
+            "BL": 5,
+            "marks": 10
+        },
+        {
+            "sl_no": 97,
+            "question": "What is\n  the role of instruction decoders in a CPU's operation?",
+            "CO": 1,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 98,
+            "question": "How does\n  parallelism improve data processing in supercomputers?",
+            "CO": 2,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 99,
+            "question": "What is\n  the significance of latency in real-time systems?",
+            "CO": 3,
+            "BL": 4,
+            "marks": 10
+        },
+        {
+            "sl_no": 100,
+            "question": "Describe\n  the role of machine learning accelerators in modern hardware architectures.",
+            "CO": 4,
+            "BL": 5,
+            "marks": 5
+        },
+        {
+            "sl_no": 101,
+            "question": "What is\n  the difference between computer organization and computer architecture?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 102,
+            "question": "Define\n  the term \"CPU\" and its main components.",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 103,
+            "question": "What are\n  the primary functions of the control unit in a CPU?",
+            "CO": 2,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 104,
+            "question": "Describe\n  the role of the Arithmetic Logic Unit (ALU).",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 105,
+            "question": "What is\n  the purpose of registers in a CPU?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 106,
+            "question": "Explain\n  the difference between RAM and ROM.",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 107,
+            "question": "What is\n  cache memory, and why is it important?",
+            "CO": 6,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 108,
+            "question": "Describe\n  the concept of virtual memory.",
+            "CO": 2,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 109,
+            "question": "What are\n  the different types of memory hierarchy in computer architecture?",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 110,
+            "question": "How does\n  the principle of locality affect memory design?",
+            "CO": 5,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 111,
+            "question": "What is\n  an instruction set architecture (ISA)?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 112,
+            "question": "Explain\n  the difference between RISC and CISC architectures.",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 113,
+            "question": "What are\n  the advantages of using a RISC architecture?",
+            "CO": 2,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 114,
+            "question": "How are\n  instructions formatted in an ISA?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 115,
+            "question": "What is\n  the role of addressing modes in instruction execution?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 116,
+            "question": "Describe\n  the basic components of a data path in a CPU.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 117,
+            "question": "What is\n  the purpose of a multiplexer (MUX)?",
+            "CO": 3,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 118,
+            "question": "Explain\n  the function of a demultiplexer (DEMUX).",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 119,
+            "question": "How does\n  control logic influence the operation of a CPU?",
+            "CO": 5,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 120,
+            "question": "What is\n  pipelining, and how does it improve CPU performance?",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 121,
+            "question": "What are\n  the different methods of data transfer between the CPU and peripheral\n  devices?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 122,
+            "question": "Explain\n  the concept of interrupts in I/O operations.",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 123,
+            "question": "What is\n  Direct Memory Access (DMA), and how does it work?",
+            "CO": 5,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 124,
+            "question": "Describe\n  the role of device drivers in computer systems.",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 125,
+            "question": "What is\n  the significance of I/O ports?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 126,
+            "question": "What is\n  the meaning of MIPS, and how is it calculated?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 127,
+            "question": "Explain\n  the concept of clock speed and its impact on CPU performance.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 128,
+            "question": "What\n  factors affect the performance of a computer system?",
+            "CO": 3,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 129,
+            "question": "Describe\n  how benchmarking is used to evaluate computer performance.",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 130,
+            "question": "What are\n  the trade-offs between performance and power consumption in CPUs?",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 131,
+            "question": "What is a\n  microprocessor, and how does it differ from a microcontroller?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 132,
+            "question": "Explain\n  the concept of parallel processing.",
+            "CO": 2,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 133,
+            "question": "What is\n  SIMD, and how does it differ from MIMD?",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 134,
+            "question": "Describe\n  the role of multicore processors in modern computing.",
+            "CO": 5,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 135,
+            "question": "How do\n  GPU architectures differ from CPU architectures?",
+            "CO": 3,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 136,
+            "question": "What is\n  the role of bus systems in computer architecture?",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 137,
+            "question": "Explain\n  the differences between system buses and expansion buses.",
+            "CO": 5,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 138,
+            "question": "What are\n  the design considerations for building a fault-tolerant system?",
+            "CO": 3,
+            "BL": 4,
+            "marks": 5
+        },
+        {
+            "sl_no": 139,
+            "question": "How does\n  system integration affect performance and reliability?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 140,
+            "question": "What is\n  the purpose of using FPGA in computer architecture?",
+            "CO": 5,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 141,
+            "question": "Describe\n  the evolution of computer architecture from vacuum tubes to modern\n  processors.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 142,
+            "question": "What was\n  the significance of the von Neumann architecture?",
+            "CO": 3,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 143,
+            "question": "How have\n  advancements in technology influenced computer organization?",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 144,
+            "question": "What are\n  some notable architectural innovations in the last decade?",
+            "CO": 2,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 145,
+            "question": "Discuss\n  the impact of quantum computing on traditional computer architecture.",
+            "CO": 5,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 146,
+            "question": "How does\n  understanding computer organization benefit software developers?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 147,
+            "question": "What are\n  the implications of computer architecture on embedded systems?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 148,
+            "question": "Describe\n  a real-world application where parallel processing is beneficial.",
+            "CO": 5,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 149,
+            "question": "How do\n  computer architecture decisions affect networked systems?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 150,
+            "question": "What\n  challenges do architects face when designing systems for AI and machine\n  learning applications?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 151,
+            "question": "What is\n  computer architecture?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 152,
+            "question": "What are\n  the three categories of computer architecture?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 153,
+            "question": "What are\n  some of the components of a microprocessor?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 154,
+            "question": "What is\n  MESI?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 155,
+            "question": "What are\n  the different hazards?",
+            "CO": 5,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 156,
+            "question": "What is\n  pipelining?",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 157,
+            "question": "What is a\n  cache?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 158,
+            "question": "What is a\n  snooping protocol?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 159,
+            "question": "What are\n  the different types of interrupts in a microprocessor system?",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 160,
+            "question": "What is\n  the easiest way to determine cache locations in which to store memory blocks?",
+            "CO": 3,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 161,
+            "question": "What is\n  virtual memory on a computer?",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 162,
+            "question": "Can you\n  state some of the common rules of assembly language?",
+            "CO": 5,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 163,
+            "question": "What is a\n  RAID system?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 164,
+            "question": "What are\n  the two hardware methods to establish a priority? Explain each method.",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 165,
+            "question": "What are\n  flip-flops?",
+            "CO": 5,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 166,
+            "question": "What's\n  the difference between interrupt service routine and subroutine?",
+            "CO": 4,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 167,
+            "question": "What are\n  the different types of fields that are part of instruction?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 168,
+            "question": "What are\n  the steps involved in an instruction cycle?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 169,
+            "question": "What are\n  the five stages in a DLX pipeline?",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 170,
+            "question": "What are\n  the types of micro-operations?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 171,
+            "question": "What is\n  the write-through method?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 172,
+            "question": "What is\n  associative mapping?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 173,
+            "question": "What does\n  wait state mean?",
+            "CO": 5,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 174,
+            "question": "What is a\n  DMA?",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 175,
+            "question": "What is\n  horizontal microcode?",
+            "CO": 3,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 176,
+            "question": "Justify\n  how parallel processing improves the performance of a multiprocessing\n  environment?",
+            "CO": 4,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 177,
+            "question": "Illustrate\n  a processor with multiple functional units with a neat diagram.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 178,
+            "question": "Classify\n  the organization of computers using Flynnâ€™s criteria.",
+            "CO": 3,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 179,
+            "question": "Write\n  about pipelining and its importance in high-speed applications.",
+            "CO": 4,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 180,
+            "question": "Demonstrate\n  the pipeline organization for the following example Ai*Bi+Ci\n  for i=1,2,3,â€¦",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 181,
+            "question": "Illustrate\n  the behavior of a pipeline using a space-time\n  diagram.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 182,
+            "question": "A\n  non-pipeline system takes 50ns to process a task. The same task can be\n  processed in a six-segment pipeline with a clock of 10 ns. Determine the\n  speedup ratio of the pipeline for 100 tasks.",
+            "CO": 3,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 183,
+            "question": "Implement\n  a simple pipeline unit for floating addition and subtraction.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 184,
+            "question": "Consider\n  an adder circuit with delays of four segments as t1=60 ns, t2=70 ns, t3=100\n  ns, t4=80 ns, and interface resistors have a delay of tr=10 ns. Find the\n  clock cycle for the pipeline.",
+            "CO": 5,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 185,
+            "question": "Find out\n  the clock cycle for a non-pipelined adder.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 186,
+            "question": "Speed up\n  of pipelined over non-pipelined.",
+            "CO": 5,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 187,
+            "question": "With\n  examples, explain a four-segment CPU pipeline and timing of instruction\n  pipeline.",
+            "CO": 4,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 188,
+            "question": "Elaborate\n  the major difficulties that cause the instruction pipeline to deviate from\n  its normal operation.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 189,
+            "question": "Why is\n  RTL preferred for describing the internal organization of digital computers?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 190,
+            "question": "Illustrate\n  the register transfer mechanism for P: R2 ← R1 with necessary diagrams.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 191,
+            "question": "Design a\n  bus system for a four-bit register using a 4x1 MUX.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 192,
+            "question": "Implement\n  a bus line for an 8-bit register using three-state buffers.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 193,
+            "question": "List out\n  the register transfer notations for arithmetic micro-operations.",
+            "CO": 3,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 194,
+            "question": "Design\n  and implement a 4-bit arithmetic unit that performs ADD, ADD with carry, SUB,\n  Sub with borrow, Increment, and Decrement operations.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 195,
+            "question": "Tabulate\n  the logical and shift micro-operations with their RTL notations.",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 196,
+            "question": "Implement\n  a 4-bit binary adder-subtractor and binary incrementor.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 197,
+            "question": "Explain\n  the logical micro-operations that manipulate individual bits of a word in a\n  register with examples.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 198,
+            "question": "Implement\n  a 4-bit combinational circuit shifter using a multiplexer.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 199,
+            "question": "Demonstrate\n  the general configuration of a micro-programmed control unit with a neat\n  block diagram.",
+            "CO": 4,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 200,
+            "question": "Explain\n  address sequencing in control memory with neat diagrams.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 201,
+            "question": "Present a\n  simple digital computer and show how it can be micro-programmed with the help\n  of necessary formats and notations.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 202,
+            "question": "Illustrate\n  the phases involved in decoding micro-operation fields with necessary\n  diagrams.",
+            "CO": 4,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 203,
+            "question": "Draw and\n  explain the schematic of a micro-program sequencer for control memory.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 204,
+            "question": "What is\n  the difference between a microprocessor and a micro program? Is it possible\n  to design a microprocessor without a micro program?",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 205,
+            "question": "Differentiate\n  between hardwired and micro-programmed control units. Is it possible to have\n  a hardwired control associated with control memory?",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 206,
+            "question": "Define i. Micro operation ii. Microinstruction iii. Micro\n  program.",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 207,
+            "question": "Design a\n  4-bit ALU that performs arithmetic, logical, and shift operations.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 208,
+            "question": "Write\n  about the hardware organization of a micro-programmed control unit.",
+            "CO": 4,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 209,
+            "question": "Discuss\n  the memory hierarchy in computer systems concerning speed, size, and cost.",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 210,
+            "question": "Explain\n  about main memory and its types.",
+            "CO": 3,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 211,
+            "question": "Write\n  about auxiliary memory devices.",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 212,
+            "question": "Explain\n  the mechanism involved in magnetic disks and magnetic tapes.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 213,
+            "question": "Write a\n  suitable practical scenario for content-addressable memory.",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 214,
+            "question": "Brief out\n  the hardware organization of associative memory with diagrams.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 215,
+            "question": "What is\n  locality of reference? Explain about cache memory in detail.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 216,
+            "question": "Illustrate\n  the mapping process involved in the transformation of data from main to cache\n  memory.",
+            "CO": 4,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 217,
+            "question": "What is\n  virtual memory? Explain the relation between address space and memory space\n  in a virtual memory system along with its mapping table.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 218,
+            "question": "Explain\n  virtual address mapping using pages with necessary examples.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 219,
+            "question": "List out\n  the importance of interfacing.",
+            "CO": 3,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 220,
+            "question": "With\n  practical examples, explain the connection of I/O bus to input-output devices\n  and its mapping specifications.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 221,
+            "question": "Explain\n  in detail the strobe control method of asynchronous data transfer.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 222,
+            "question": "What is\n  the disadvantage of the strobe method? Explain how the handshake method\n  solves the problem.",
+            "CO": 5,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 223,
+            "question": "Classify\n  and describe the possible modes of data transfer to and from peripherals with\n  examples.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 224,
+            "question": "List out\n  the methodologies involved in handling priority interrupts.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 225,
+            "question": "Explain\n  daisy-chaining priority and parallel priority interrupts with its hardware\n  diagram.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 226,
+            "question": "Elaborate\n  how DMA bypasses CPU and speeds up memory operations.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 227,
+            "question": "With a\n  neat schematic, explain about DMA controller and its mode of data transfer.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 228,
+            "question": "Explain\n  the linear organization of an 8x2 ROM chip with a diagram.",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 229,
+            "question": "Justify\n  the importance of backward compatibility in processor design with practical\n  examples.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 230,
+            "question": "Differentiate\n  between SRAM and DRAM.",
+            "CO": 3,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 231,
+            "question": "Differentiate\n  between high-level and low-level languages.",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 232,
+            "question": "What is\n  an interrupt?",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 233,
+            "question": "Draw a\n  block diagram for a bidirectional input/output device with its interface and\n  enable/load logic.",
+            "CO": 4,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 234,
+            "question": "Design an\n  8x4 memory subsystem constructed from two 8x2 ROM chips.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 235,
+            "question": "What is\n  an instruction cycle? Write the phases of the instruction cycle.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 236,
+            "question": "With a\n  neat flowchart, explain how the control unit determines the instruction after\n  decoding an instruction.",
+            "CO": 5,
+            "BL": 3,
+            "marks": 5
+        },
+        {
+            "sl_no": 237,
+            "question": "Write the\n  basic instruction formats for I/O, register, and memory reference\n  instructions.",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 238,
+            "question": "With a\n  neat schematic, explain the steps involved in fetch and decode phases using\n  register transfer instructions.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 239,
+            "question": "Elaborate\n  on the steps involved in the execution of memory-reference instructions with\n  its timing signals.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 240,
+            "question": "Using the\n  register transfer notations, explain the memory-reference instructions with\n  examples.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 241,
+            "question": "Illustrate\n  the basic requirements for input and output communication using a terminal\n  unit such as a keyboard and printer.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 242,
+            "question": "Tabulate\n  the input-output instructions using register transfer notations.",
+            "CO": 3,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 243,
+            "question": "Write\n  about interrupts and their types.",
+            "CO": 4,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 244,
+            "question": "Illustrate\n  the phases of the interrupt cycle with a neat flowchart.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 245,
+            "question": "Design\n  hardware for signed magnitude addition and subtraction.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 246,
+            "question": "Explain\n  the process for signed magnitude addition and subtraction with a flowchart.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 247,
+            "question": "Implement\n  hardware for multiplying two fixed-point binary numbers in signed-magnitude\n  representation along with its flowchart.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 248,
+            "question": "Explain\n  in detail the Booth multiplication algorithm with an example.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 249,
+            "question": "Describe\n  the importance of BCD in digital system design.",
+            "CO": 3,
+            "BL": 1,
+            "marks": 5
+        },
+        {
+            "sl_no": 250,
+            "question": "Design a\n  decimal arithmetic unit to perform BCD addition and BCD subtraction.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 251,
+            "question": "Tabulate\n  data transfer instructions with examples in detail.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 252,
+            "question": "Tabulate\n  data manipulation instructions with examples in detail.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 253,
+            "question": "What is\n  the use of program control instructions? Mention its typical instructions.",
+            "CO": 4,
+            "BL": 2,
+            "marks": 5
+        },
+        {
+            "sl_no": 254,
+            "question": "Explain\n  in detail the status bit conditions with examples.",
+            "CO": 5,
+            "BL": 2,
+            "marks": 5
+        }
+    ]
+}
